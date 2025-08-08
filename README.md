@@ -13,7 +13,7 @@ A front-end web application developed during the **IBM SkillsBuild Front-end Int
 - **JavaScript**: Dynamic features and interactivity
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/Bhumika773/YouLiveOnlyOnce.git`
+1. Clone the repository: `https://github.com/Bhumika773/YouLiveOnlyOnce-html-css-js`  
 2. Open `index.html` in a web browser.
 
 ## Acknowledgments
