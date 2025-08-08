@@ -16,8 +16,5 @@ A front-end web application developed during the **IBM SkillsBuild Front-end Int
 1. Clone the repository: `git clone https://github.com/Bhumika773/YouLiveOnlyOnce.git`
 2. Open `index.html` in a web browser.
 
-## Live Demo
-[View Live Demo](https://yourusername.github.io/YouLiveOnlyOnce) *(if hosted)*
-
 ## Acknowledgments
 Developed as part of the IBM SkillsBuild Front-end Internship.
